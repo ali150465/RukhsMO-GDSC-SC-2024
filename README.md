@@ -34,22 +34,4 @@ git clone <this repo>
 ```bash
 cd Wikilimo_mobileapp
 ```
-##### Then, check [this](Wikilimo_mobileapp/README.md) README file for further instructions and a prototype app demo.
 
-
-##### Step 4. To explore the offline functionality source code, run:
-```bash
-cd Wikilimo_offline
-```
-##### Then, check [this](Wikilimo_offline/README.md) README file for further instructions and demos of SMS/USSD services.
-
-Read contributing guidelines [here](https://github.com/wikilimo/Wikilimo/blob/master/Contributing.md).
-
-## Authors
-
-| [![Roshni Biswas](https://github.com/roshni-b.png?size=100)](https://github.com/roshni-b/) | [![Anurag Saha Roy](https://github.com/lazyoracle.png?size=100)](https://github.com/lazyoracle/)  |
-|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
-| [Roshni Biswas](https://github.com/roshni-b)                                                | [Anurag Saha Roy](https://github.com/lazyoracle)                                              | 
-
-## Licenses 
-Wikilimo is licensed by <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img src="https://img.shields.io/badge/license-Creative Commons BY 4.0-blue.svg"></a> as per Unite-Ideas OpenCI Challenge 2019 guidelines.
