@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="tech.roshnibiswas.wikilimo" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Wikilimo</name>
+    <description>
+        A 'kilimo' tool built by everyone.
+    </description>
+    <author email="wikilimo.africa@gmail.com" href="http://wikilimo.co">
+        Wikilimo Team: Roshni Biswas and Anurag Saha Roy
+    </author>
+    <content src="index.html" />
+    <icon src="www/img/logo.png" />
+    <plugin name="cordova-plugin-whitelist" spec="1" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:wikilimo.africa@gmail.com" />
+    <allow-intent href="geo:*" />
+    <platform name="android">
+        <allow-intent href="market:*" />
+    </platform>
+    <platform name="ios">
+        <allow-intent href="itms:*" />
+        <allow-intent href="itms-apps:*" />
+    </platform>
+</widget>
